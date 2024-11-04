@@ -1,4 +1,4 @@
-## Hi there 👋
+## hello people 👋
 
 <!--
 **spacesanjeet/spacesanjeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a management post-graduate student from Bhopal, India. Passionate for blogging and reading!
+
+🔭 Currently working on:
+
++ my personal [site](https://spacesanjeet.me/)
++ personal bookmarks and [mini blogs](spacesanjeet.github.io/bookmark-project/)
++ listen to music and my podcast at [BeatsSaz](http://www.youtube.com/@beatssaz)
