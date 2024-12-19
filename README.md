@@ -20,7 +20,7 @@ I am a management post-graduate student from Bhopal, India. Passionate for blogg
 🔭 Currently working on:
 
 + my personal [site](https://spacesanjeet.me/)
-+ personal bookmarks and [mini blogs](spacesanjeet.github.io/bookmark-project/)
++ personal bookmarks and [mini blogs](https://spacesanjeet.github.io/bookmark-project/)
 + listen to music and my podcast at [BeatsSaz](http://www.youtube.com/@beatssaz)
 
 > [!NOTE]
