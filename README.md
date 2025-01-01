@@ -15,13 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a management post-graduate student from Bhopal, India. Passionate for blogging and reading!
+I am a post-graduate management professional from India. Passionately blog and read all the time!
 
-🔭 Currently working on:
+🔭 My current projects:
 
 + my personal [site](https://spacesanjeet.me/)
-+ personal bookmarks and [mini blogs](spacesanjeet.github.io/bookmark-project/)
-+ listen to music and my podcast at [BeatsSaz](http://www.youtube.com/@beatssaz)
++ music and podcast at [BeatsSaz](https://www.youtube.com/@beatssaz)
 
-> [!NOTE]
-> Thanks for hanging around! Have a great day/night and happy coding 😄✨
+⚡ My previous projects:
+
++ discord bot named [Bisly](https://github.com/spacesanjeet/Bisly)
++ a Python based raw [Library Management tool](https://github.com/spacesanjeet/Library-Management)
+
+> Thanks for hanging around! Happy coding 😄✨
